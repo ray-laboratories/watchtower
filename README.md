@@ -1,6 +1,6 @@
 <div align="center">
 
-# RAYLABS Watchtower
+# Watchtower by Ray Laboratories
 
 ### A simple, easy to use system resource monitoring solution
 
