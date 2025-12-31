@@ -1,7 +1,7 @@
 <div align="center">
 
-# Watchtower by Ray Laboratories
-
+# Watchtower
+##### Made by Camila "Mocha" Rose
 ### A simple, easy to use system resource monitoring solution
 
 [![Version](https://img.shields.io/badge/version-1.0.0-purple)](https://github.com/mochacinno-dev/Tourmaline)
